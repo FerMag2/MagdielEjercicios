@@ -1,0 +1,19 @@
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica 2.csprojAssemblyReference.cache
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica_2.Ventana.resources
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica_2.Properties.Resources.resources
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.GenerateResource.cache
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\nohbr\Documents\Visual Studio\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
+C:\Users\Magdiel\Documents\C#\Practica 2\bin\Debug\Practica 2.exe.config
+C:\Users\Magdiel\Documents\C#\Practica 2\bin\Debug\Practica 2.exe
+C:\Users\Magdiel\Documents\C#\Practica 2\bin\Debug\Practica 2.pdb
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica 2.csproj.AssemblyReference.cache
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica_2.Ventana.resources
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica_2.Properties.Resources.resources
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica 2.csproj.GenerateResource.cache
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica 2.exe
+C:\Users\Magdiel\Documents\C#\Practica 2\obj\Debug\Practica 2.pdb
