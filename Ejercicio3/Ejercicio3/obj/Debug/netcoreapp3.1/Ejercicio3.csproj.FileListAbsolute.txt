@@ -1,0 +1,16 @@
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.exe
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.deps.json
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.json
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.dev.json
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.Form1.resources
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfo.cs
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\Magdiel\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.genruntimeconfig.cache
