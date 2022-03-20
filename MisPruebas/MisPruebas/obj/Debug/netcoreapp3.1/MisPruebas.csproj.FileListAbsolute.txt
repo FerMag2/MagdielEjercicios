@@ -1,0 +1,16 @@
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.exe
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.deps.json
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.runtimeconfig.json
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.runtimeconfig.dev.json
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.dll
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\bin\Debug\netcoreapp3.1\MisPruebas.pdb
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.csproj.AssemblyReference.cache
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.Form1.resources
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.csproj.GenerateResource.cache
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.AssemblyInfoInputs.cache
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.AssemblyInfo.cs
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.dll
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.pdb
+C:\Users\Magdiel\source\repos\MisPruebas\MisPruebas\obj\Debug\netcoreapp3.1\MisPruebas.genruntimeconfig.cache
