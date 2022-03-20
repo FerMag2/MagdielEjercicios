@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventanita", "Ventanita\Ventanita.csproj", "{F1BAA2A7-9682-4F23-A466-D808415CAA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BAA2A7-9682-4F23-A466-D808415CAA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BAA2A7-9682-4F23-A466-D808415CAA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BAA2A7-9682-4F23-A466-D808415CAA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BAA2A7-9682-4F23-A466-D808415CAA72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09092698-9CA3-4873-98A6-29025A215547}
+	EndGlobalSection
+EndGlobal

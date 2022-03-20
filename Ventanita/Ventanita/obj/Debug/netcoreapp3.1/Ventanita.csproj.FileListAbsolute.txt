@@ -1,0 +1,16 @@
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.exe
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.deps.json
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.runtimeconfig.json
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.runtimeconfig.dev.json
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.dll
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\bin\Debug\netcoreapp3.1\Ventanita.pdb
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.csproj.AssemblyReference.cache
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.Form1.resources
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.csproj.GenerateResource.cache
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.AssemblyInfoInputs.cache
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.AssemblyInfo.cs
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.dll
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.pdb
+C:\Users\Magdiel\source\repos\Ventanita\Ventanita\obj\Debug\netcoreapp3.1\Ventanita.genruntimeconfig.cache
