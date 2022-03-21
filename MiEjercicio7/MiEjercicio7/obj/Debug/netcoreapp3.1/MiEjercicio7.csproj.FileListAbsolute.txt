@@ -1,0 +1,16 @@
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.exe
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.deps.json
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.runtimeconfig.json
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.runtimeconfig.dev.json
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.dll
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\bin\Debug\netcoreapp3.1\MiEjercicio7.pdb
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.csproj.AssemblyReference.cache
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.Form1.resources
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.csproj.GenerateResource.cache
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.AssemblyInfoInputs.cache
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.AssemblyInfo.cs
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.dll
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.pdb
+C:\Users\Magdiel\source\repos\MiEjercicio7\MiEjercicio7\obj\Debug\netcoreapp3.1\MiEjercicio7.genruntimeconfig.cache
