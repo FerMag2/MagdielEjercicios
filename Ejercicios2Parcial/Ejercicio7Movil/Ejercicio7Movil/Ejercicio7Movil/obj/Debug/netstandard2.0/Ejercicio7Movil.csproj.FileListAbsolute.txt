@@ -1,0 +1,15 @@
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\bin\Debug\netstandard2.0\Ejercicio7Movil.deps.json
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\bin\Debug\netstandard2.0\Ejercicio7Movil.dll
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\bin\Debug\netstandard2.0\Ejercicio7Movil.pdb
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.csproj.AssemblyReference.cache
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.AssemblyInfoInputs.cache
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.AssemblyInfo.cs
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.dll
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\refint\Ejercicio7Movil.dll
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\Ejercicio7Movil.pdb
+C:\Users\Magdiel\source\repos\Ejercicio7Movil\Ejercicio7Movil\Ejercicio7Movil\obj\Debug\netstandard2.0\ref\Ejercicio7Movil.dll
