@@ -1,0 +1,78 @@
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.deps.json
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.dll
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csprojAssemblyReference.cache
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfo.cs
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.dll
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Examen.xaml.g.cs
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\PuntajeFinal.xaml.g.cs
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DANIEL\Documents\Mis Documentos\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.deps.json
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.AssemblyReference.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\AdivinaFigura.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Examen.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MenuJuegos.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\PuntajeFinal.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfoInputs.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfo.cs
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\Lira2Parcial\Proyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.deps.json
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.AssemblyReference.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\AdivinaFigura.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Examen.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MenuJuegos.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\PuntajeFinal.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfoInputs.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfo.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.deps.json
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\bin\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.AssemblyReference.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\AdivinaFigura.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Examen.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\MenuJuegos.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\PuntajeFinal.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfoInputs.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.AssemblyInfo.cs
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.csproj.CoreCompileInputs.cache
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\ref\Biseccion.dll
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\Biseccion.pdb
+C:\Users\Magdiel\Documents\RespaldoProyecto\Respaldo2\Biseccion\Biseccion\Biseccion\obj\Debug\netstandard2.0\AreaPerimetro.xaml.g.cs

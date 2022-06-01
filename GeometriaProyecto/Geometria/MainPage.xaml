@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Biseccion.MainPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <BoxView Color="GreenYellow" Opacity="0.7"/>
+                <StackLayout Padding="30,50" VerticalOptions="Center" Margin="20,0,20,0">
+                    <Label Text="     FULL GEOMETRY" TextColor="Black" FontSize="Title" x:Name="GEOMETRY"/>
+                    <Label Text="            Geometria" TextColor="Black" FontSize="Title" x:Name="titulo"/>
+                    <Entry Placeholder="Correo Electrónico" PlaceholderColor="Black" Keyboard="Email" x:Name="phCorreo" />
+                    <Entry Placeholder="Contraseña" PlaceholderColor="Black" IsPassword="True" x:Name="phPassword"/>
+                    <Button x:Name="btnIniciar" Text="Iniciar Sesion" BackgroundColor="White" CornerRadius="20" Clicked="btnIniciar_Clicked"/>
+                    <Button Text="Registrarse" BackgroundColor="White" CornerRadius="20" Clicked="btnRegistro_Clicked"/>
+                    <Image Source="geometria.png"/>
+                   
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+     
+
+
+
+
+</ContentPage>

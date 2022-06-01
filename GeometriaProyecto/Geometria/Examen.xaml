@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Biseccion.Examen">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <BoxView
+                Color="GreenYellow"
+                Opacity="0.7"/>
+                <StackLayout>
+                    <Label
+                    Text="Pregunta 1"
+                    x:Name="lblNumPregunta"
+                    HorizontalOptions="Center"
+                    Margin="15"
+                    TextColor="Black"
+                    FontSize="30"/>
+                    <Label 
+                    Text="Aqui van todas las preguntas"
+                    x:Name="lblPregunta"
+                    HorizontalOptions="Center"
+                    Margin="15"
+                    TextColor="Black"
+                    FontSize="25"/>
+
+                    <Button
+                    x:Name="btnAnswer1"
+                    Text="4"
+                    CornerRadius="20"
+                    Margin="20"
+                    Clicked="btnAnswer1_Clicked"
+                    FontSize="25"/>
+
+                    <Button
+                    x:Name="btnAnswer2"
+                    Text="6.5"
+                    CornerRadius="20"
+                    Margin="20"
+                    Clicked="btnAnswer2_Clicked"
+                    FontSize="25"
+                    />
+
+                    <Button
+                    x:Name="btnAnswer3"
+                    Text="8.4"
+                    CornerRadius="20"
+                    Margin="20"
+                    Clicked="btnAnswer3_Clicked"
+                    FontSize="25"
+                    />
+                    <Label
+                    x:Name="lblPuntaje"
+                    Text="Puntaje: 0/10"
+                    HorizontalOptions="Center"
+                    Margin="20"
+                    FontSize="20"
+                    TextColor="Black"
+                    />
+
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+        
+            
+        
+    </ContentPage.Content>
+</ContentPage>

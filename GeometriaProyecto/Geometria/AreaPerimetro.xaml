@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Biseccion.AreaPerimetro">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <BoxView
+                Color="GreenYellow"
+                Opacity="0.7"/>
+                <StackLayout>
+                    <Label
+                    Text="Calculadora de Areas y Perimetros de Figuras"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="30"/>
+                    
+                    <Image Source="Rectangulo.png" HeightRequest="60" WidthRequest="60" />
+                    <Entry Placeholder="Lado A" PlaceholderColor="Black"  x:Name="ladoA" />
+                    <Entry Placeholder="Lado B" PlaceholderColor="Black"  x:Name="ladoB"/>
+                    <Button
+                    x:Name="btnAnswer1"
+                    Text="Calcular"
+                    CornerRadius="20"
+                    Clicked="btnAnswer1_Clicked"
+                    FontSize="25"/>
+                    <Label Text="" x:Name="AreaRec" 
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                    <Label  Text="" x:Name="PerimetroRec"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+
+                    <Image Source="Circulo.png" HeightRequest="60" WidthRequest="60"/>
+                    <Entry Placeholder="Radio" PlaceholderColor="Black"  x:Name="Radio" />
+                    <Button
+                    x:Name="btnAnswer2"
+                    Text="Calcular"
+                    CornerRadius="20"
+                    Clicked="btnAnswer2_Clicked"
+                    FontSize="25"
+                    />
+                    <Label Text="" x:Name="AreaCir" 
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                    <Label  Text="" x:Name="PerimetroCir"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+
+                    <Image Source="Cuadrado.png" HeightRequest="60" WidthRequest="60"/>
+                    <Entry Placeholder="Lado Principal" PlaceholderColor="Black"  x:Name="ladoPrin" />
+                    <Button
+                    x:Name="btnAnswer3"
+                    Text="Calcular"
+                    CornerRadius="20"
+                    Clicked="btnAnswer3_Clicked"
+                    FontSize="25"
+                    />
+                    <Label Text="" x:Name="AreaCua"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                    <Label  Text="" x:Name="PerimetroCua"
+                     HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+
+                    <Image Source="Triangulo.png" HeightRequest="60" WidthRequest="60"/>
+                    <Entry Placeholder="Base" PlaceholderColor="Black"  x:Name="Base" />
+                    <Entry Placeholder="Altura" PlaceholderColor="Black"  x:Name="Altura" />
+                    <Button
+                    x:Name="btnAnswer4"
+                    Text="Calcular"
+                    CornerRadius="20"
+                    Clicked="btnAnswer4_Clicked"
+                    FontSize="25"
+                    />
+                    <Label Text="" x:Name="AreaTrian" 
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                    <Label  Text="" x:Name="PerimetroTrian"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+
+                    <Image Source="Rombo.png" HeightRequest="60" WidthRequest="60"/>
+                    <Entry Placeholder="Diagonal mayor" PlaceholderColor="Black"  x:Name="mayor" />
+                    <Entry Placeholder="Diagonal menor" PlaceholderColor="Black"  x:Name="menor" />
+                    <Entry Placeholder="Medida del lado" PlaceholderColor="Black"  x:Name="ladoRom" />
+                    <Button
+                    x:Name="btnAnswer5"
+                    Text="Calcular"
+                    CornerRadius="20"
+                    Clicked="btnAnswer5_Clicked"
+                    FontSize="25"
+                    />
+                    <Label Text="" x:Name="AreaRom" 
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                    <Label  Text="" x:Name="PerimetroRom"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                    FontSize="20"/>
+                   
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

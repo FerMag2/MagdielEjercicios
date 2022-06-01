@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Biseccion.Registro">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid>
+                <BoxView Color="GreenYellow" Opacity="0.7"/>
+                <StackLayout Padding="30,50" VerticalOptions="Center" Margin="20,0,20,0">
+                    <Label 
+                    Text="Empezar Registro" 
+                    HorizontalOptions="Center"
+                    FontSize="30"
+                    TextColor="Black"/>
+                    <Entry
+                    x:Name="phNombre"
+                    Placeholder="Nombre(s)"
+                    PlaceholderColor="Black"
+                       />
+                    <Entry
+                    x:Name="phCorreoE"
+                    Placeholder="Correo Electrónico"
+                    Keyboard="Email"
+                    PlaceholderColor="Black"
+                       />
+                    <Entry
+                    x:Name="phPasswordE"
+                    Placeholder="Password"
+                    IsPassword="true"
+                    PlaceholderColor="Black"
+                      />
+                    <Entry
+                    x:Name="phCorreo"
+                    Placeholder="Password"
+                    IsPassword="true"
+                    PlaceholderColor="Black"
+                      IsVisible="False" />
+                    <Entry
+                    x:Name="Contraseña"
+                    Placeholder="Password"
+                    IsPassword="true"
+                    PlaceholderColor="Black"
+                       IsVisible="False" />
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Entry
+                        x:Name="phEdad"
+                        Placeholder="Edad"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        TextColor="Black"
+                        PlaceholderColor="Black"
+                        />
+                        <Entry
+                        x:Name="phEscuela"
+                        Placeholder="Escuela"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        TextColor="Black"
+                        PlaceholderColor="Black"
+                        />
+                    </Grid>
+                    <Button
+                    Text="Guardar Datos"
+                    CornerRadius="20"
+                    BackgroundColor="Aqua"
+                    x:Name="btnGuardarDatos"
+                    Clicked="btnSave_Clicked"
+                    FontSize="20"
+                    TextColor="Black"
+                    BorderColor="Blue"/>
+                    <Button
+                    Text="Volver al Menú"
+                    CornerRadius="20"
+                    BackgroundColor="Aqua"
+                    x:Name="btnVolverMenu"
+                    Clicked="btnVolver_Clicked"
+                    FontSize="20"
+                    TextColor="Black"
+                    BorderColor="Blue"/>
+
+                    <Label
+                        Text="Usuarios Registrados"
+                        HorizontalOptions="Center"
+                        FontSize="25"
+                        TextColor="Red"/>
+                    <ListView x:Name="listView" ItemSelected="listView_ItemSelected">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <TextCell Text="{Binding Nombre}"
+                              Detail="{Binding Escuela}" />
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+        
+        
+    </ContentPage.Content>
+</ContentPage>
